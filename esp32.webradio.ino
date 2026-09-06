@@ -1,6 +1,6 @@
 // ╔══════════════════════════════════════════════════════════════╗
 // ║  esp32.webradio.ino — Web-Radio für ESP32                   ║
-// ║  Version: 2.0.0                                             ║
+// ║  Version: 2.3.0                                             ║
 // ║  Basiert auf: esp-hub-base v1.5.0                           ║
 // ╠══════════════════════════════════════════════════════════════╣
 // ║  Bibliotheken (Arduino Library Manager):                    ║
@@ -9,7 +9,7 @@
 // ║  Built-in: HTTPClient, Update, WebServer, Preferences,      ║
 // ║            ESPmDNS                                          ║
 // ╠══════════════════════════════════════════════════════════════╣
-// ║  Features v2.0.0:                                           ║
+// ║  Features v2.3.0:                                           ║
 // ║    - ⭐ Favoriten (persistent, unterhalb Player)             ║
 // ║    - 🎙 Podcasts-Tab mit RSS-Episodenvorschau               ║
 // ║    - 🔍 Entdecken-Tab via radio-browser.info API            ║
@@ -39,7 +39,7 @@
 // ================================================================
 
 #define DEVICE_NAME            "Web-Radio"
-#define FW_VERSION             "2.0.0"
+#define FW_VERSION             "2.3.0"
 #define HUB_HOST               "192.168.178.113"
 #define HUB_PORT               8093
 #define WIFI_AP_NAME           "ESP-WebRadio"

@@ -64,8 +64,6 @@ Schema: `{name}.{version}.{family}.bin`
 | `webradio.2.3.0.esp32.bin` | ESP32 / D1 Mini |
 | `webradio.2.3.0.esp32s3.bin` | ESP32-S3 |
 
-> Hinweis: Die .bins sind **2.3.0**; der Sketch im Repo trägt noch die Versionskennung **2.0.0** (Datei umbenannt auf `esp32.webradio.ino`).
-
 ---
 
 ## Web-Oberfläche
